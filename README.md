@@ -18,3 +18,9 @@
 - Author: Paul Hudson, available online: https://www.hackingwithswift.com/100/swiftui/1; https://www.hackingwithswift.com/100/1
   -  __Day 1__: Variables, Line breaks, String interpolation, Constants, Type Annotation
  
+---------------------------------------------------------------------
+# Apple-UK Swift Tutorial
+- __Section 1__: Swift Essential
+  - Creating and Combining Views
+    - Project repo:
+    - <img width="419" alt="Screen Shot 2021-08-10 at 4 44 42 PM" src="https://user-images.githubusercontent.com/77253286/128949225-eb7ddd91-a548-4e21-b5be-c8e40823cd82.png">
