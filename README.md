@@ -10,7 +10,11 @@
 
 ---------------------------------------------------------------------
 # Learn iOS Apps Developing
-- CS193p, Developing Apps for iOS (Stanford course, available online: https://cs193p.sites.stanford.edu/)
+- CS193p, Developing Apps for iOS (Stanford course, professor: Paul Hegarty, available online: https://cs193p.sites.stanford.edu/)
+  - __Lecture 1 + 2__: SwiftUI
 
-## Lecture 1: SwiftUI
-
+---------------------------------------------------------------------
+# 100 days of SwiftUI/Swift
+- Author: Paul Hudson, available online: https://www.hackingwithswift.com/100/swiftui/1; https://www.hackingwithswift.com/100/1
+  -  __Day 1__: Variables, Line breaks, String interpolation, Constants, Type Annotation
+ 
