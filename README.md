@@ -22,5 +22,5 @@
 # Apple-UK Swift Tutorial
 - __Section 1__: Swift Essential
   - Creating and Combining Views
-    - Project repo:
-    - <img width="419" alt="Screen Shot 2021-08-10 at 4 44 42 PM" src="https://user-images.githubusercontent.com/77253286/128949225-eb7ddd91-a548-4e21-b5be-c8e40823cd82.png">
+    - Project repo: https://github.com/thynguyen115/learn-Swift-iOS-Apps/tree/main/Landmarks
+    - <img width="250" alt="Screen Shot 2021-08-10 at 4 44 42 PM" src="https://user-images.githubusercontent.com/77253286/128949225-eb7ddd91-a548-4e21-b5be-c8e40823cd82.png">
