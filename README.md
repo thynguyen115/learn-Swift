@@ -12,8 +12,8 @@
 # Learn iOS Apps Developing
 - CS193p, Developing Apps for iOS (Stanford course, professor: Paul Hegarty, available online: https://cs193p.sites.stanford.edu/)
   - __Lecture 1 + 2__: SwiftUI
-    - Demo: 
-    - ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/77253286/129123703-8fc1f577-9e1c-4df7-a94d-cea35e737c54.gif)
+    - Memorize Game: 
+    - <img src='https://user-images.githubusercontent.com/77253286/129123703-8fc1f577-9e1c-4df7-a94d-cea35e737c54.gif' title='Memorize Game' width='250px' alt='Video Walkthrough' />
   
 
 ---------------------------------------------------------------------
