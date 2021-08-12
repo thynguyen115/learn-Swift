@@ -6,14 +6,14 @@
 - __Tip Calculator Project__:
   - Project repo: https://github.com/thynguyen115/Tip-Calculator-Swift-CodePath  
   - GIF link: https://i.imgur.com/DMpxrKY.gifv
-  - <center><img src='https://user-images.githubusercontent.com/77253286/128550451-bc70d330-a435-4a49-9ced-cdda801cfcb0.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' /></center>
+  - <center><img src='https://user-images.githubusercontent.com/77253286/128550451-bc70d330-a435-4a49-9ced-cdda801cfcb0.gif' title='Video Walkthrough' width='200px' alt='Video Walkthrough' /></center>
 
 ---------------------------------------------------------------------
 # Learn iOS Apps Developing
 - CS193p, Developing Apps for iOS (Stanford course, professor: Paul Hegarty, available online: https://cs193p.sites.stanford.edu/)
   - __Lecture 1 + 2__: SwiftUI
     - Memorize Game: 
-    - <img src='https://user-images.githubusercontent.com/77253286/129123703-8fc1f577-9e1c-4df7-a94d-cea35e737c54.gif' title='Memorize Game' width='250px' alt='Video Walkthrough' />
+    - <img src='https://user-images.githubusercontent.com/77253286/129123703-8fc1f577-9e1c-4df7-a94d-cea35e737c54.gif' title='Memorize Game' width='200px' alt='Video Walkthrough' />
   
 
 ---------------------------------------------------------------------
@@ -27,4 +27,4 @@
 ## Section 1: Swift Essential
   - __Creating and Combining Views__
     - Project repo: https://github.com/thynguyen115/learn-Swift-iOS-Apps/tree/main/Landmarks
-    - <img width="250" alt="Screen Shot 2021-08-10 at 4 44 42 PM" src="https://user-images.githubusercontent.com/77253286/128949225-eb7ddd91-a548-4e21-b5be-c8e40823cd82.png">
+    - <img width="200" alt="Screen Shot 2021-08-10 at 4 44 42 PM" src="https://user-images.githubusercontent.com/77253286/128949225-eb7ddd91-a548-4e21-b5be-c8e40823cd82.png">
