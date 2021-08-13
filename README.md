@@ -14,6 +14,7 @@
   - __Lecture 1 + 2__: SwiftUI
     - Memorize Game: 
     - <img src='https://user-images.githubusercontent.com/77253286/129123703-8fc1f577-9e1c-4df7-a94d-cea35e737c54.gif' title='Memorize Game' width='200px' alt='Video Walkthrough' />
+  - __Lecture 3: MVVM
   
 
 ---------------------------------------------------------------------
@@ -21,6 +22,7 @@
 - Author: Paul Hudson, available online: https://www.hackingwithswift.com/100/swiftui/1; https://www.hackingwithswift.com/100/1
   -  __Day 1__: Variables, Line breaks, String interpolation, Constants, Type Annotation
   -  __Day 2__: Collections (Arrays, Sets, Tuples, Dictionaries), Enums (w/. associated values, raw values)
+  -  __Day 3__: Arithmetic/Comparison/Ternary operations, Conditions, Switch, Range
  
 ---------------------------------------------------------------------
 # Apple-UK Swift Tutorial
@@ -28,3 +30,4 @@
   - __Creating and Combining Views__
     - Project repo: https://github.com/thynguyen115/learn-Swift-iOS-Apps/tree/main/Landmarks
     - <img width="200" alt="Screen Shot 2021-08-10 at 4 44 42 PM" src="https://user-images.githubusercontent.com/77253286/128949225-eb7ddd91-a548-4e21-b5be-c8e40823cd82.png">
+  - __Building Lists and Navigation__
