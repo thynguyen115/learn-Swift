@@ -23,6 +23,10 @@
   -  __Day 1__: Variables, Line breaks, String interpolation, Constants, Type Annotation
   -  __Day 2__: Collections (Arrays, Sets, Tuples, Dictionaries), Enums (w/. associated values, raw values)
   -  __Day 3__: Arithmetic/Comparison/Ternary operations, Conditions, Switch, Range
+  -  __Day 4__: Loops
+  -  __Day 5__: Funcs, params, throwing errors
+  -  __Day 6, Day 7__: Closures
+  -  __Day 8__: Struct, String/Array methods
  
 ---------------------------------------------------------------------
 # Apple-UK Swift Tutorial
