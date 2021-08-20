@@ -20,13 +20,9 @@
 ---------------------------------------------------------------------
 # 100 days of SwiftUI/Swift
 - Author: Paul Hudson, available online: https://www.hackingwithswift.com/100/swiftui/1; https://www.hackingwithswift.com/100/1
-  -  __Day 1__: Variables, Line breaks, String interpolation, Constants, Type Annotation
-  -  __Day 2__: Collections (Arrays, Sets, Tuples, Dictionaries), Enums (w/. associated values, raw values)
-  -  __Day 3__: Arithmetic/Comparison/Ternary operations, Conditions, Switch, Range
-  -  __Day 4__: Loops
-  -  __Day 5__: Funcs, params, throwing errors
-  -  __Day 6, Day 7__: Closures
-  -  __Day 8__: Struct, String/Array methods
+  - __Chapter 1__: Intro to Swift
+  - __Chapter 2__: Starting SwiftUI
+  - 
  
 ---------------------------------------------------------------------
 # Apple-UK Swift Tutorial
