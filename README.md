@@ -24,7 +24,7 @@
   - __Chapter 2__: Starting SwiftUI
     - Project 1: WeSplit
       - Project repo: https://github.com/thynguyen115/learn-Swift-iOS-Apps/tree/main/WeSplit
-      - Demo: ![ezgif com-gif-maker](https://user-images.githubusercontent.com/77253286/130340130-9c497e89-0dff-490b-9178-5778b626a388.gif)
+      - Demo: ![ezgif com-gif-maker](https://user-images.githubusercontent.com/77253286/130340130-9c497e89-0dff-490b-9178-5778b626a388.gif width='200px')
     - Project 2:
  
 ---------------------------------------------------------------------
