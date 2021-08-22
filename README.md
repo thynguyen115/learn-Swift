@@ -22,10 +22,12 @@
 - Author: Paul Hudson, available online: https://www.hackingwithswift.com/100/swiftui/1; https://www.hackingwithswift.com/100/1
   - __Chapter 1__: Intro to Swift
   - __Chapter 2__: Starting SwiftUI
-    - Project 1: WeSplit
+    - __Project 1: WeSplit__
       - Project repo: https://github.com/thynguyen115/learn-Swift-iOS-Apps/tree/main/WeSplit
       - Demo: <center><img src='https://user-images.githubusercontent.com/77253286/130340130-9c497e89-0dff-490b-9178-5778b626a388.gif' title='Video Walkthrough' width='200px' alt='Video Walkthrough' /></center>
-    - Project 2:
+    - __Project 2: UConvert__
+      - Project repo: https://github.com/thynguyen115/learn-Swift-iOS-Apps/tree/main/UnitConversion
+      - Demo: 
  
 ---------------------------------------------------------------------
 # Apple-UK Swift Tutorial
