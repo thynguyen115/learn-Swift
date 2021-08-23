@@ -27,8 +27,7 @@
       - Demo: <center><img src='https://user-images.githubusercontent.com/77253286/130340130-9c497e89-0dff-490b-9178-5778b626a388.gif' title='Video Walkthrough' width='200px' alt='Video Walkthrough' /></center>
     - __Project 2: UConvert__
       - Project repo: https://github.com/thynguyen115/learn-Swift-iOS-Apps/tree/main/UnitConversion
-      - Demo: <center><img src='https://user-images.githubusercontent.com/77253286/130378319-1a410b1c-e2ca-4f5f-b89d-7e9a924e07b9.gif' title='Video Walkthrough' width='200px' alt='Video Walkthrough' /></center>
-      - ![UConvert](https://user-images.githubusercontent.com/77253286/130378513-c90a61cd-2b1e-42a1-8360-66fb6700c228.gif)
+      - Demo: <center><img src='https://user-images.githubusercontent.com/77253286/130378513-c90a61cd-2b1e-42a1-8360-66fb6700c228.gif' title='Video Walkthrough' width='200px' alt='Video Walkthrough' /></center>
 
 
  
