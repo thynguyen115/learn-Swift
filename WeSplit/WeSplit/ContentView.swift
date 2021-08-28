@@ -3,6 +3,7 @@
 //  WeSplit
 //
 //  Created by Thy Nguyen on 8/20/21.
+//  Latest edit: 8/28/21
 //  Instructed by Instructor: Paul Hudson
 //
 
@@ -30,7 +31,7 @@ struct ContentView: View {
         let amountPerPerson = totalAmount / peopleCount
         return [amountPerPerson, totalAmount]
     }
-
+    
     var body: some View {
         NavigationView {
             Form {
@@ -57,7 +58,8 @@ struct ContentView: View {
                 }
                 
                 Section(header: Text("Total Amount")) {
-                    Text("$\(calculatedAmount[1], specifier: "%.2f")")
+                    Text("$\(calculatedAmount[1], specifier: "%.2f")").foregroundColor(tipPercents[tipPercent] == 0 ? .red : .white)
+                    // Add a conditional modifier to change the total amount text view to red if the user selects a 0% tip
                 }
                 
                 Section(header: Text("Amount per person")) {
