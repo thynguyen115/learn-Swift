@@ -3,10 +3,23 @@
 //  FlagGuessing
 //
 //  Created by Thy Nguyen on 8/27/21.
+//  Latest edit: 8/28/21
 //  Instructor: Paul Hudson
 //
 
 import SwiftUI
+
+struct FlagImage: View {
+    var text: String // country name
+    
+    var body: some View {
+        Image(text)
+            .renderingMode(.original)
+            .clipShape(Capsule())
+            .overlay(Capsule().stroke(Color.black, lineWidth: 1))
+            .shadow(color: .black, radius: 1)
+    }
+}
 
 struct ContentView: View {
     // Variables for displaying flags
@@ -43,7 +56,9 @@ struct ContentView: View {
                     Button(action: {
                         self.flagTapped(number)
                     }) {
-                        Image(self.countries[number]).renderingMode(.original).clipShape(Capsule()).overlay(Capsule().stroke(Color.black, lineWidth: 1)).shadow(color: .black, radius: 1)
+                        //Image(self.countries[number]).renderingMode(.original).clipShape(Capsule()).overlay(Capsule().stroke(Color.black, lineWidth: 1)).shadow(color: .black, radius: 1)
+                        // Use FlagImage view instead of the above
+                        FlagImage(text: self.countries[number])
                     }
                 }
                 
