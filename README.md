@@ -31,6 +31,8 @@
     - __Project 3: Flag Guessing__
       - Project repo: https://github.com/thynguyen115/learn-Swift-iOS-Apps/tree/main/FlagGuessing
       - Demo: <center><img src='https://user-images.githubusercontent.com/77253286/131200394-27eae436-6f53-4b4a-821d-113f2d2f504b.gif' title='Video Walkthrough' width='200px' alt='Video Walkthrough' /></center>
+    - __Project 4: Rock, Paper, Scissors__
+      - Project repo: https://github.com/thynguyen115/learn-Swift-iOS-Apps/tree/main/RockPaperScissor  
 
  
 ---------------------------------------------------------------------
