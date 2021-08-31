@@ -19,7 +19,7 @@ struct DisplayImage: View {
 
 struct ContentView: View {
     // Necessary vars
-    @State  private var possibleChoices = ["Rock", "Paper", "Scissors"].shuffled()
+    @State  private var possibleChoices = ["Rock", "Paper", "Scissors"]
     @State private var playerScore = 0.0
     @State private var cmpScore = 0.0
     @State private var showingScore = false
@@ -48,9 +48,8 @@ struct ContentView: View {
             Spacer()
            
         }.alert(isPresented: $showingScore) {
-            Alert(title: Text(scoreTitle), dismissButton: .default(Text("Continue")){
+            Alert(title: Text(scoreTitle), message: Text("Computer picked \(possibleChoices[appChoice])"),  dismissButton: .default(Text("Continue")){
                 self.reset()
-                // only shows score when users answer incorrectly
             })
         }
     }
@@ -58,19 +57,20 @@ struct ContentView: View {
     // funcs for button to work
     func picked(_ choice: Int) {
         if choice == appChoice {
-            playerScore += 1.0
-            showingScore = false
-            reset()
+            scoreTitle = "A Tie!"
+        } else if (appChoice == 0 && choice == 2) || (choice + 1 == appChoice) {
+                playerScore -= 0.5
+                cmpScore += 2
+                scoreTitle = "Defeat!"
         } else {
-            playerScore -= 0.5
-            cmpScore += 2
-            scoreTitle = "Incorrect! It was \(possibleChoices[appChoice])"
-            showingScore = true
-        }
+                playerScore += 1.0
+                cmpScore -= 0.5
+                scoreTitle = "Win!"
+            }
+        showingScore = true
     }
     
     func reset() {
-        possibleChoices.shuffle()
         appChoice = Int.random(in: 0...2)
     }
 }
